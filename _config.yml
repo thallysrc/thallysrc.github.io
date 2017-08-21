@@ -1,0 +1,26 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Thallys Rodrigues Costa
+paginate:       5
+baseurl:        ""
+url:            "https://chesterhow.github.io/tale"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Thallys Rodrigues Costa
+  url:          http://github.com/thallysrc
+  email:        thallys.rc@gmail.com
+
+# Gems
+gems:
+  - jekyll-paginate
