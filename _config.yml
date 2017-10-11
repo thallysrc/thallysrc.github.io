@@ -15,10 +15,6 @@ sass:
 # Build settings
 markdown:       kramdown
 
-assets:
-    sources:
-    - _assets/fonts/
-
 # About
 author:
   name:         Thallys Rodrigues Costa

@@ -3,7 +3,7 @@ layout: post
 title:  "Sobre Habitos"
 author: "Thallys Rodrigues Costa"
 ---
-# O loop dos habitos
+## O loop dos habitos
 Eugene era um senhor que fez teve problemas em uma regiao do cerebro responsavel pela
 memoria e mesmo assim ele aprendia coisas novas sem nem lembrar delas, ele criava habitos
 Os habitos não dependem da memoria, pois são um sistema que é disparado por uma regiao do 

@@ -1,9 +1,10 @@
 .post {
   padding: 3rem 0;
+  font-size:1.2rem;
 
   &-info {
     color: $default-tint;
-    font-family: $palatino;
+    font-family: $sans-font;
     letter-spacing: .5px;
     text-align: center;
 
@@ -15,7 +16,7 @@
   &-title {
     color: $default-shade;
     font-family: $sans-font;
-    font-size: 4rem;
+    font-size: 3rem;
     margin: 1rem 0;
     text-align: center;
   }
