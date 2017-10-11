@@ -24,3 +24,5 @@ pegas os cookies mas devolviam a tigela e comiam o rabanete como lhe fora ordena
 atendimento quanto o grupo dos rabanetes fora lhe dito somente o que eles deviam fazer.
 Apos sairem da sala das guloseimas colocaram eles para resolver um quebra-cabeca que era impossivel resolver, essa era a parte mais importante do teste.
 O grupo que nao precisou fazer nenhum esforco nos testes(o grupo dos cookies) foram até o final do teste tentando resolver cerca de 20 mins e o grupo que comeu os rabanetes e nao receberam um bom atendimento resmungavam e ficavam no maximo de 8 a 9 minutos tentando resolver até desistir. o resultado do teste foi replicado diversas vezes com outros grupos e deram o mesmo resultado, o que concluiu que a forca de vontade é como um musculo e nao algo infinito.
+
+## work in progress

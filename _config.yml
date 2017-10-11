@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Thallys Rodrigues Costa
 paginate:       5
 baseurl:        ""
-url:            "https://chesterhow.github.io/tale"
+url:            "https://thallysrc.github.io"
 
 # Assets
 sass:
@@ -14,6 +14,10 @@ sass:
 
 # Build settings
 markdown:       kramdown
+
+assets:
+    sources:
+    - _assets/fonts/
 
 # About
 author:
