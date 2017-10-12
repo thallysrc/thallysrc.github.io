@@ -1,28 +1,24 @@
 ---
 layout: post
-title:  "Sobre Habitos"
+title:  "Sobre Hábitos"
 author: "Thallys Rodrigues Costa"
 ---
-## O loop dos habitos
-Eugene era um senhor que fez teve problemas em uma regiao do cerebro responsavel pela
-memoria e mesmo assim ele aprendia coisas novas sem nem lembrar delas, ele criava habitos
-Os habitos não dependem da memoria, pois são um sistema que é disparado por uma regiao do 
-cerebro que é responsavel pelas coisas mais primitivas, como mastigar, saber abrir uma porta, saber reconhecer uma expressao facial. No primeiro capitulo falou sobre como os habitos se desenvolvem e como eles não dependem da memoria.
-e também como os habitos funcionam
 
-A starbucks foi fundada sobre a condicão de ter o melhor atendimento possivel para o cliente. E como a maioria dos funcionarios
-que entravam geralmente eram seu primeiro emprego, e manter contato com o cliente não era uma tarefa facil para quem tinha 
-uma autodisciplina baixa. pois ao lidar com clientes bravos geralmente não sabiam o que fazer e geralmente respondiam o cliente
-ou ficavam em panico. E sobre essa condicão de proporcionar um bom atendimento ao cliente a starbucks investiu no crescimento pessoal dos funcionarios para ajudar eles a criarem bons habitos e estar preparado para as diversas situacão durante o servico.
+Somos seres formados por hábitos, todas nossas acões e definicões estão ligas aos nossos hábitos sem ao menos percebe-los. Na formação do nosso cérebro, os hábitos são armazedos e criados no tronco cerebral, no qual é resposavel pelas tarefas mais primitivas, como mastigar, abrir uma porta ou parar no sinal vermelho. E isso não tem ligacão com a parte cognitiva do cérebro que é resposavel pela memória ou percepção.
 
-## sobre a forca de vontade
+## Como são formados os hábitos
 
-Foram feitos testes com uma tigela de cookies recém saidos do forno e uma tigela de rabanete do lado dos cookies. dividiram as pessoas do teste em dois grupos, um era responsavel por comer os cookies e o outro grupo era responsavel por comer os rabanetes
-o primeiro grupo que comeu os rabanetes não precisou se esforcar nada para comer cookies recem prontos e facilmente ignoraram 
-os rabanetes. ja o grupo que comeu os rabanetes quando entravam na sala ficavam observando os cookies, uns chegavam a 
-pegas os cookies mas devolviam a tigela e comiam o rabanete como lhe fora ordenado. o grupo dos cookies também recebou um otimo
-atendimento quanto o grupo dos rabanetes fora lhe dito somente o que eles deviam fazer.
-Apos sairem da sala das guloseimas colocaram eles para resolver um quebra-cabeca que era impossivel resolver, essa era a parte mais importante do teste.
-O grupo que nao precisou fazer nenhum esforco nos testes(o grupo dos cookies) foram até o final do teste tentando resolver cerca de 20 mins e o grupo que comeu os rabanetes e nao receberam um bom atendimento resmungavam e ficavam no maximo de 8 a 9 minutos tentando resolver até desistir. o resultado do teste foi replicado diversas vezes com outros grupos e deram o mesmo resultado, o que concluiu que a forca de vontade é como um musculo e nao algo infinito.
+Um hábito é formado por uma deixa, uma ação e uma recompensa. por exemplo, você ve uma notificação no seu celular(a deixa), você clica na notificação(a ação) e a recompensa é ver o resultado daquela notificação de um amigo ou um email importante que estava esperando. Para um hábito realmente se concretizar é necessário sentir adiantado a recompensa antes da ação, tornando inevitável a ação, por exemplo, quando chega uma notificação no celular e ficamos ansioso pra clicar e todas essas ações foram comprovadas por cientistas do mit com experimentos como o dos hábitos dos ratos.
 
-## work in progress
+## O experimento dos hábitos dos ratos
+
+Pesquisadores do mit estruturam um labirinto em forma de T, no lado esquedo do T tinha um pedaço de chocolate e o lado direito estava vazio, enquanto o rato fica na parte inferior do T atrás de uma divisória que disparava um clique ao abrir. Quando os cientistas abriam a divisória aonde o rato estava preso, ele farejava o  chocolate, ia no lado direito, depois para o esquerdo mas sempre achava a recompensa. Depois de repetir essa tarefa varias vezes o rato ia direto para a recompensa(seu chocolate) pois acabou formando o hábito de não precisar mais farejar o chocolate ou ficar batendo nos cantos do labirinto, cada vez ele ia mais rápido ao chocolate, seguindo o loop do hábito que era ouvir o clique da divisória levantando, caminhar até o chocolate e come-lo.
+
+Durante esse teste com os ratos quando ele não formou o habito, seu cerebro exercia uma atividade cerebral muito grande, porque estava recebendo muitas informacões novas, e conforme os dias foram passando o seu cerebro diminiu a atividade cerebral pois estava sendo criado um habito nas suas glagios basais no tronco cerebral poupando o cerebro de processar a mesma coisa todos os dias.
+
+## Porque voce deveria se preocupar com seus habitos
+
+Os hábitos são rotinas automáticas para economizar nossa energia, porém nosso cérebro não sabe a diferencça entre um hábito bom ou ruim. você pode estar acostumado com coisas que não são benéficas sem ao menos perceber-las. No momento que você começa a identificar aonde esta acertando ou falhando, e sabendo como os hábitos funcionam, ja sabe como muda-los, porém não é uma tarefa facil, requer muito esforco, conforme o tempo me permitir irei postar mais sobre isso.
+
+
+
