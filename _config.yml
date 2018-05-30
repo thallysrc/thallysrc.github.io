@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Thallys Rodrigues Costa
 paginate:       5
 baseurl:        ""
-url:            "https://thallysrc.github.io"
+url:            "http://thallysrc.net"
 
 # Assets
 sass:
