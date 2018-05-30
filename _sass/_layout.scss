@@ -62,7 +62,7 @@ footer,
 
   a {
     color: $default-color;
-    font-family: $sans-font;
+    font-family: 'IBM Plex Mono', monospace;
   }
 }
 
@@ -80,13 +80,3 @@ footer,
   }
 }
 
-footer {
-  font-family: $sans-font;
-  padding: 2rem 0;
-  text-align: center;
-
-  span {
-    color: $default-color;
-    font-size: .8rem;
-  }
-}

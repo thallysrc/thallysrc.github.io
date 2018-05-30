@@ -1,10 +1,11 @@
 .catalogue {
   &-item {
-    border-bottom: 1px solid $grey-2;
     color:#697785;
     font-size:1.1rem;
-    display: inline-block;
-    padding: 2rem 0;
+    display: flex;
+    padding: 1.1rem 0;
+    align-items: center;
+    font-family: 'IBM Plex Mono', monospace;
 
     &:hover .catalogue-line,
     &:focus .catalogue-line {
@@ -16,25 +17,14 @@
     }
   }
 
-  &-time {
-    color: $default-tint;
-    font-family: $sans-font;
-    letter-spacing: .5px;
-  }
 
   &-title {
     color: $default-shade;
     display: block;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 38px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 18px;
     font-weight: 600;
-    margin: .5rem 0;
+    padding-left:10px;
   }
 
-  &-line {
-    @include transition(all .3s ease-out);
-    border-top: .2rem solid $default-shade;
-    display: block;
-    width: 2rem;
-  }
 }
