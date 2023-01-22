@@ -2,14 +2,17 @@ baseURL: https://thallysrc.github.io/
 languageCode: en-us
 title: Thallys Rodrigues Costa
 theme: "PaperMod"
+googleAnalytics: G-888NRJSBTZ
 languages:
-  en:
-    languageName: "English"
+  pt:
+    languageName: "Português"
     weight: 1
     taxonomies:
       category: categories
       tag: tags
       series: series
+params:
+  env: production
     # menu:
     #   main:
     #     - name: Archive
