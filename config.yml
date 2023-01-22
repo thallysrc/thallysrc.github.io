@@ -4,8 +4,8 @@ title: Thallys Rodrigues Costa
 theme: "PaperMod"
 googleAnalytics: G-888NRJSBTZ
 languages:
-  pt:
-    languageName: "Português"
+  en:
+    languageName: "English"
     weight: 1
     taxonomies:
       category: categories
